@@ -54,12 +54,10 @@ img{
 }
 .profile .profile-img{
     position: relative;
-    border-bottom: 100px solid color: #E83B3E;
+    border-bottom: 50px solid rgba(232, 59, 62);
 }
 .profile .profile-img .name{
     position: relative;
-    bottom: 1rem;
-    left: 10px;
 }
 .profile .profile-about{
     padding: 1rem;
