@@ -55,11 +55,12 @@ img{
 .profile .profile-img{
     position: relative;
     padding: 0;
-    border-bottom: 5px solid rgba(232, 59, 62);
+    border-bottom: 10px solid rgba(232, 59, 62);
 }
 .profile .profile-img .name{
     position: relative;
     padding: 10px;
+    border: 10px;
 }
 .profile .profile-about{
     padding: 1rem;
@@ -168,7 +169,7 @@ img{
     align-items: center;
     gap: 1rem;
     margin-bottom: 1rem;
-    color: #009688;
+    color: #000000;
 }
 .information .box p{
     padding-bottom: 1rem;
@@ -190,7 +191,7 @@ img{
     color: white;
 }
 .footer{
-    background: #910119;
+    background: #E83B3E;
     display: flex;
     flex-direction: column;
     align-items: center;
