@@ -29,14 +29,14 @@ li{
     color: #757575;
 }
 i{
-    color: #009688;
+    color: #910119;
 }
 html{
     font-size: 16px;
 }
 body{
     font-family: 'Roboto', sans-serif;
-    background-color: #f1f1f1;
+    background-color: #910119;
 }
 img{
     width: 100%;
@@ -189,7 +189,7 @@ img{
     color: white;
 }
 .footer{
-    background: #009688;
+    background: #910119;
     display: flex;
     flex-direction: column;
     align-items: center;
