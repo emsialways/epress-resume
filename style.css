@@ -29,14 +29,14 @@ li{
     color: #757575;
 }
 i{
-    color: #910119;
+    color: #E83B3E;
 }
 html{
     font-size: 16px;
 }
 body{
     font-family: 'Roboto', sans-serif;
-    background-color: #910119;
+    background-color: #E83B3E;
 }
 img{
     width: 100%;
@@ -57,7 +57,7 @@ img{
 }
 .profile .profile-img .name{
     position: absolute;
-    bottom: 1rem;
+    bottom: 2rem;
     left: 1rem;
 }
 .profile .profile-about{
