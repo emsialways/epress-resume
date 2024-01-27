@@ -59,7 +59,7 @@ img{
 .profile .profile-img .name{
     position: relative;
     bottom: 1rem;
-    left: 3rem;
+    left: 10px;
 }
 .profile .profile-about{
     padding: 1rem;
