@@ -57,7 +57,7 @@ img{
     border-bottom: 2px solid color: #E83B3E;
 }
 .profile .profile-img .name{
-    position: absolute;
+    position: relative;
     bottom: 1rem;
     left: 1rem;
 }
