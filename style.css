@@ -55,6 +55,7 @@ img{
 .profile .profile-img{
     position: relative;
     padding: 0;
+    margin: 20px;
     border: 10px solid rgba(232, 59, 62);
 }
 .profile .profile-img .name{
