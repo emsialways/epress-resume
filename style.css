@@ -58,7 +58,7 @@ img{
 .profile .profile-img .name{
     position: absolute;
     top: 10rem;
-    text-align: center;
+    text-align: right;
 }
 .profile .profile-about{
     padding: 1rem;
