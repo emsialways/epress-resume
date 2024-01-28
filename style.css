@@ -57,7 +57,7 @@ img{
 }
 .profile .profile-img .name{
     position: absolute;
-    bottom: 10rem;
+    bottom: 1rem;
     text-align: right;
 }
 .profile .profile-about{
