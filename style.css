@@ -56,7 +56,7 @@ img{
     position: relative;
 }
 .profile .profile-img .name{
-    position: relative;
+    position: absolute;
     left: 200px;
 }
 .profile .profile-about{
